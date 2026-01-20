@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-Full-stack engineer with 4+ years experience building production software in healthcare & fintech.  
+Full-stack engineer with 5+ years experience building production software in healthcare & fintech.  
 I ship end-to-end: backend → APIs → frontend → deployments → infra.
 
 ---
