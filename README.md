@@ -8,7 +8,7 @@ I work end-to-end: backend → APIs → frontend → deploy → infra. I bias to
 
 ## 🚀 Projects
 
-### ⭐ [PayrollTracker](#)
+### ⭐ [PayrollTracker](https://github.com/TerminatrX/PayrollTracker)
 Real Illinois payroll, on the desktop. Tauri 2 + React shell over a tested .NET 8 tax engine (IRS Pub 15-T / IL-700-T withholding) running as a JSON-RPC sidecar.
 `Rust` `.NET 8` `React` `SQLite`
 
@@ -24,7 +24,7 @@ Production futures bot (ES/NQ/GC) — [rule-based strategies] with an optional P
 Agentic, human-approved video-clipping pipeline. FastAPI media worker (download → transcribe → LLM editorial scoring → vertical render) feeding a Next.js review/approval [dashboard].
 `FastAPI` `Next.js` `Whisper` `FFmpeg`
 
-### ⭐ [Life Dashboard OS](#)
+### ⭐ [Life Dashboard OS](https://github.com/TerminatrX/Life-Dashboard-OS)
 A personal *"what should I focus on today?"* OS — recommendations over dashboards. Local-first by design.
 `Next.js` `FastAPI` `pgvector` `Redis` `LangGraph`
 
